@@ -11,8 +11,8 @@ Depuis ce board Miro [lien à mettre à jour pour chaque promotion], vous pouvez
 Un wireframe est une version simplifiée de votre interface, un model, un moule qui permettra ensuite aux développeurs.euses de donner vie au site internet.
 
 Il existe plusieurs façons de faire des wireframes, plus ou moins poussées. Déjà nous allons réduire le périmètres à seulement quelques pages et en version web uniquement. Nous allons commencer par le faire en `low fidelity` comme ici : 
-
-![Untitled]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1e22ddf-0504-4ab2-a4c4-a652d7650577/Untitled.png](https://file.notion.so/f/s/386b8f73-8329-4d6d-b604-b8064576dac3/Capture_decran_2022-06-22_a_14.25.14.png?id=6e247a63-5449-45a0-8a7a-c56eac5e0e18&table=block&spaceId=e2700ce0-ccc4-47ba-b77f-8c8e48b696d1&expirationTimestamp=1687375144065&signature=MFaOnItGJR-vwQRUOqmadvR6K3_9IHznKa3dyvKmP80&downloadName=Capture+d%E2%80%99e%CC%81cran+2022-06-22+a%CC%80+14.25.14.png))
+ 
+![Untitled]([https://s3-us-west-2.amazonaws.com/secure.notion-static.com/d1e22ddf-0504-4ab2-a4c4-a652d7650577/Untitled.png](https://file.notion.so/f/s/386b8f73-8329-4d6d-b604-b8064576dac3/Capture_decran_2022-06-22_a_14.25.14.png?id=6e247a63-5449-45a0-8a7a-c56eac5e0e18&table=block&spaceId=e2700ce0-ccc4-47ba-b77f-8c8e48b696d1&expirationTimestamp=1687375144065&signature=MFaOnItGJR-vwQRUOqmadvR6K3_9IHznKa3dyvKmP80&downloadName=Capture+d%E2%80%99e%CC%81cran+2022-06-22+a%CC%80+14.25.14.png)
 
 Ce projet nous n’allons pas le lancer seul.e.s, en effet, le besoin vient de notre cliente et nous allons essayer de répondre un maximum à ses attentes.
 
